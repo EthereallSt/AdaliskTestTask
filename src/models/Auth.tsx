@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom';
-import {IUserIdentity} from './user'
+import { IUserIdentity } from './user'
 
 export interface IAuthResponse {
   status: number;
@@ -45,7 +45,6 @@ export const checkAuthStatus = (): boolean => {
 export const Logout = (): void => {
   const navigate = useNavigate();
   window.localStorage.removeItem('tstz.authenticated');
-  console.log("Выход произведён");
+  console.log("Exit  done");
   navigate(-1)
 }
-  

@@ -34,6 +34,4 @@ export const Button1 = styled.button`
 background-color: #70b6a5;
 color: #f1f1f6;
 
-
-
 `;

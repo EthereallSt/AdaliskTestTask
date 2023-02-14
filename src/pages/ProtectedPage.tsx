@@ -28,7 +28,7 @@ export const ProtectedPage= () => {
           </tr>
           {data.map((x) => (
           <tr>
-            <Td> key ={x.reference}</Td>
+            <Td> {x.reference}</Td>
             <Td> {x.status}</Td>
             <Td>{x.accountId}</Td>
             <Td>{x.creationDate}</Td>

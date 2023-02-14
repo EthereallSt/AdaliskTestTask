@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { RouteProps, useNavigate, useLocation } from 'react-router-dom'; 
+import { RouteProps, useNavigate } from 'react-router-dom'; 
 import { authenticate } from '../models/Auth';
 import { IUserIdentity } from '../models/user'
 import { Button } from '../style/buttons';
