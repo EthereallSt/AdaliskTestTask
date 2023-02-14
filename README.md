@@ -4,11 +4,15 @@
 
   <p align="center">
     На стеке React + TypeScript + MobX + Styled-components + webpack + React-router, написать 3-страничное SPA приложение.
+        <br/>
+    Должна быть авторизация и отображение тестовых данных из Json.
     <br/>
     <br/>
   </p>
 </p>
 
+
+![image](https://user-images.githubusercontent.com/89348016/218831421-47590ce0-8ef8-4710-9d71-48c0634bffc2.png)
 
 
 ## Table Of Contents
