@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Задача</h3>
+  <h3 align="center">Задание</h3>
 
   <p align="center">
     На стеке React + TypeScript + MobX + Styled-components + webpack + React-router, написать 3-страничное SPA приложение.
