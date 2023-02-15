@@ -45,6 +45,9 @@ npm install
 npm start
 ```
 ### 
+
+log: root
+passadmin
 ----------
 
 Используется:
