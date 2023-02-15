@@ -46,8 +46,10 @@ npm start
 ```
 ### 
 
-log: root
-passadmin
+----------
+login: root
+    <br/>
+password: admin
 ----------
 
 Используется:
